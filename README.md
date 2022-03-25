@@ -4,6 +4,6 @@
 
 ## Módulo 03 - Front-end
 
-- Desafio Front-end
+- Desafio
 
 ###### tags: `módulo 3` `front-end` `React`

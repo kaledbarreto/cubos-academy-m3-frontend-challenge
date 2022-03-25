@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "date": "2021-12-16T00:00:00.000Z",
+      "week_day": "quinta",
+      "description": "Mercado",
+      "value": 1000,
+      "category": "Pix",
+      "type": "credit",
+      "id": 1
+    },
+    {
+      "date": "2021-12-16T00:00:00.000Z",
+      "week_day": "quinta",
+      "description": "Mercado",
+      "value": 400,
+      "category": "TED",
+      "type": "debit",
+      "id": 2
+    },
+    {
+      "date": "2021-12-16T00:00:00.000Z",
+      "week_day": "quinta",
+      "description": "Teste",
+      "value": 500,
+      "category": "Mercado",
+      "type": "credit",
+      "id": 3
+    },
+    {
+      "date": "2021-12-15T00:00:00.000Z",
+      "week_day": "quarta",
+      "description": "Teste",
+      "value": 600,
+      "category": "Mercado",
+      "type": "credit",
+      "id": 4
+    },
+    {
+      "date": "2021-12-07T00:00:00.000Z",
+      "week_day": "terça",
+      "description": "aaaa",
+      "value": 400,
+      "category": "Pix",
+      "type": "credit",
+      "id": 5
+    },
+    {
+      "date": "2021-12-16T00:00:00.000Z",
+      "week_day": "quinta",
+      "description": "teste 2",
+      "value": 400,
+      "category": "Pix",
+      "type": "credit",
+      "id": 6
+    },
+    {
+      "date": "2021-12-08T00:00:00.000Z",
+      "week_day": "quarta",
+      "description": "teste 3",
+      "value": 10001,
+      "category": "Pix",
+      "type": "credit",
+      "id": 7
+    },
+    {
+      "date": "2021-12-16T00:00:00.000Z",
+      "week_day": "quinta",
+      "description": "Mercado",
+      "value": 1000,
+      "category": "Mercado",
+      "type": "credit",
+      "id": 8
+    }
+  ]
+}
